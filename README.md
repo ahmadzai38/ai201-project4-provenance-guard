@@ -643,3 +643,6 @@ For the walkthrough video, I will show:
 7. The rate-limit test showing `429` responses
 
 The walkthrough will briefly explain why the system uses two signals and why uncertain labels are important.
+## Walkthrough Video
+
+Demo video: https://drive.google.com/file/d/1p9B4buutDVtOCUNKzFgz7X_AhwKA3SAQ/view?usp=sharing
